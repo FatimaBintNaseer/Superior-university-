@@ -1,0 +1,6 @@
+Account Number,Account Holder,Balance,Type,Interest Rate,Overdraft Limit
+00-111-222,Usman,2500.0,Current,,5000.0
+00-222-333,Abaan,3500.0,Savings,2.5,
+001,Aa,2500.0,Savings,2.5,
+002,bb,4500.0,Savings,2.5,
+001,aa,2500.0,Savings,2.5,
